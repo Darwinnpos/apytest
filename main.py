@@ -10,5 +10,8 @@ def main():
     my_map = {'a': 1, 'b': 2, 'c': 3}
     print(my_map)
 
+    # 打印一个字符串
+    print("这是一个新的字符串")
+
 if __name__ == "__main__":
     main()
