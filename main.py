@@ -5,5 +5,9 @@ def main():
     my_list = [1, 2, 3, 4, 5]
     print(my_list)
 
+    # 打印一个字典映射
+    my_map = {'a': 1, 'b': 2, 'c': 3}
+    print(my_map)
+
 if __name__ == "__main__":
     main()
