@@ -1,4 +1,5 @@
 def main():
+    # 新功能实现
     # 打印一条简单的消息以示例
     print("hello world")
     # 打印一个列表
